@@ -9,7 +9,7 @@ You can view live demo at my blog [Fox inDESIGN](foxindesign.net).
 
 ##Features
 
-* Fully Responsive.
+* Responsive.
 * Masonry Layout.
 * Infinite scroll.
 * Syntax highlight with Highlight.js.
