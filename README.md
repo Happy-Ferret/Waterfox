@@ -2,6 +2,7 @@ Waterfox
 ========
 
 Free &amp; Modern Ghost Theme.
+![Fox inDESIGN](http://pik.vn/20145d4184b1-0eec-4b03-94cf-89c6c51c02a7.png)
 
 ##Demo
 
