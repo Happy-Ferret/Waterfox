@@ -27,5 +27,14 @@ You can view live demo at my blog [Fox inDESIGN](foxindesign.net).
 
 > For best performance, select >=20 post per page
 
+##Support
 
+You can contact me at:
+* [Facebook](https://www.facebook.com/tuanphongtruong98) (Recommend)
+* [Twitter](https://twitter.com/tuanphongtruong)
+* [Google+](https://plus.google.com/+TuấnPhongTrương)
+* Mail: truongtuanphong@outlook.com
 
+##Copyright &amp; License
+
+Copyright (c) 2014 Tuấn Phong Trương
