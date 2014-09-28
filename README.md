@@ -18,7 +18,6 @@ You can view live demo at my blog [Fox inDESIGN](foxindesign.net).
 * Cross browser.
 * Disqus comment.
 * Integrated Google Analytics.
-* Integrated Google Webmaster Tools.
 * And more
 
 ##Install
